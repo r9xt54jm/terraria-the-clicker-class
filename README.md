@@ -4,6 +4,15 @@
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="200"/>
 </p>
 
+<p align="center">
+  <a href="https://github.com/releases/latest">
+    <img src="https://img.shields.io/badge/⬇%20Download-Latest%20Release-yellow?style=for-the-badge" alt="Download"/>
+  </a>
+  <a href="https://github.com/releases">
+    <img src="https://img.shields.io/badge/📦%20All%20Versions-Releases-orange?style=for-the-badge" alt="Releases"/>
+  </a>
+</p>
+
 🕹️ **Terraria — The Clicker Class** — Clicker-game mechanics and click-based class mod for Terraria. Terraria — The Clicker Class helps you play Terraria with a unique clicker-game inspired class featuring click-based combat and special abilities.
 
 ---
